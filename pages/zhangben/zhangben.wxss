@@ -1,0 +1,77 @@
+/*banner图*/
+.banner_img{
+  width: 100%;
+  margin-top: 0px;
+  height: 180px;
+}
+
+/*账目类型*/
+.account-detail{
+    height: 80rpx;
+    padding: 0 30rpx;
+}
+
+/*账目数额*/
+.account-amount{
+    padding: 0 30rpx;
+    height: 80rpx;
+}
+
+/*选择日期*/
+.picker{
+  color: gray;
+  height: 80rpx;
+  padding: 0 30rpx;
+  margin-left: -5px;
+
+}
+
+/*记一笔按钮*/
+
+.btn{
+  background-color: #207b94!important;
+  border-radius: 98rpx; 
+  width: 90%;
+}
+
+/*input字体*/
+.account-list-text{
+    color:gray;
+    margin:30rpx 0 0 30rpx;
+}
+
+/*合计*/
+.account-list-all-amount{
+    margin-top: 5px;
+    color:gray;
+    align-self: flex-end;
+    margin-left: 78%;
+}
+
+/*花费列表*/
+.account-list{
+    color:gray;
+    margin:10px 5% 0 5%;
+    display: flex;
+    flex-direction: row;
+    background-color:#E6E6FA;
+    line-height: 70rpx;
+    width: 90%;
+    border-radius: 20rpx; 
+    height: 70rpx;
+}
+
+.account-list-detail{
+    /* 让所有弹性盒模型对象的子元素都有相同的长度，且忽略它们内部的内容 */
+    flex:1;
+}
+
+/*列表宽度*/
+.account-list-amount{
+    width: 100rpx;
+}
+
+/*删除按钮*/
+.del_btn{
+  margin-top: 2px;
+}

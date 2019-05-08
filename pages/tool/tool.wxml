@@ -1,0 +1,11 @@
+<!-- <text>这是工具啊！</text> -->
+<view id="jiemian">
+  <image class="banner_img" src="/pages/tool/img/1.png" ></image>
+  <image class="book1" src="/pages/tool/img/book1.png" bindtap='gozhangben'></image>
+  <image class="pen" src="/pages/tool/img/pen.png" bindtap='gojihua'></image>
+  <view class='words'>
+    <view class='word' bindtap='gozhangben' id='word1'>账本</view>
+    <view class='word' bindtap='gojihua' id='word2'>计划</view>
+  </view>
+  
+</view>

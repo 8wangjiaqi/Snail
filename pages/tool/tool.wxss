@@ -1,0 +1,34 @@
+/* pages/TabOne/TabOne.wxss */
+#jiemian{
+  height: 500px;
+}
+.banner_img{
+    width:100%; 
+}
+.book1{
+  margin-top: 17%;
+  width: 40%;
+  height: 125px;
+  margin-left: 7%;
+}
+.pen{
+  width: 40%;
+  height: 125px;
+  margin-left: 6%;
+}
+.word{
+  color: #207b94;
+  font-size: 25px;
+  width: 40%;
+  /* background-color: pink; */
+  text-align: center;
+}
+#word1{
+  margin-left: 4%;
+  margin-top: 15px;
+}
+#word2{
+   margin-left: 53%;
+   /* float: left; */
+   margin-top: -33px;
+}
